@@ -1,0 +1,66 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: grey;
+  font-family: Impact;
+  
+}
+
+.KOTLC {
+  background-color: Indigo;
+  color: SandyBrown;
+  column-count: 2;
+  font-family: Courier New;
+  margin: 5%;
+  padding: 5%;
+ 
+}
+
+.RA{
+  background-color: DarkGreen;
+  color: SlateGray;
+  column-count: 2;
+  font-family: Courier New;
+  margin: 5%;
+  padding: 5%;
+}
+
+.PJO{
+  background-color: DodgerBlue;
+  color: LightSteelBlue;
+  column-count: 2;
+  font-family: Courier New;
+  margin: 5%;
+  padding: 5%;
+
+}
+
+.HP{
+  background-color: DarkGoldenRod;
+  color: DimGray;
+  column-count: 2;
+  font-family: Courier New;
+  margin: 5%;
+  padding: 5%;
+  
+}
+
+.HG{
+  background-color: DarkRed;
+  color: Gold;
+  column-count: 2;
+  font-family: Courier New;
+  margin: 5%;
+  padding: 5%;
+}
+
+.LS{
+  background-color: LightSkyBlue;
+  color: LightGoldenRodYellow;
+  column-count: 2;
+  font-family: Courier New;
+  margin: 5%;
+  padding: 5%;
+}
